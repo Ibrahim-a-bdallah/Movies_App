@@ -18,7 +18,7 @@ using a UI framework instead of plain CSS.
 Original project: <a href="https://drive.google.com/drive/folders/1Oe9jDkKbgR5pieTCD3VC8dIg_tyngZfM">[Project Link Here]</a>
 
 Laptop Screen:
-<img src="laptop-screen.png"/>
+<img src="img/laptop-screen.png"/>
 
 Mobile Screen:
 <img src="mobile-screen.png"/>
