@@ -18,13 +18,15 @@ using a UI framework instead of plain CSS.
 Original project: <a href="https://drive.google.com/drive/folders/1Oe9jDkKbgR5pieTCD3VC8dIg_tyngZfM">[Project Link Here]</a>
 
 Laptop Screen:
+
 <img src="img/laptop-screen.png"/>
 
 Mobile Screen:
 
-<img src="img/mobile-screen.png" center />
+<img src="img/mobile-screen.png" />
 
 Products:
+
 <img src="img/product.png"/>
 
 
