@@ -22,7 +22,7 @@ Laptop Screen:
 
 Mobile Screen:
 
-<img src="img/mobile-screen.png" />
+<img src="img/mobile-screen.png" center />
 
 Products:
 <img src="img/product.png"/>
