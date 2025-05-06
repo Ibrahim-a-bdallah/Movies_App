@@ -21,9 +21,9 @@ Laptop Screen:
 <img src="img/laptop-screen.png"/>
 
 Mobile Screen:
-<img src="mobile-screen.png"/>
+<img src="img/mobile-screen.png" />
 
 Products:
-<img src="product.png"/>
+<img src="img/product.png"/>
 
 
